@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://mma-trainer-81f8d-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">208745185273</string>
+  <string name="google_storage_bucket" translatable="false">mma-trainer-81f8d.appspot.com</string>
+  <string name="project_id" translatable="false">mma-trainer-81f8d</string>
+  <string name="google_api_key" translatable="false">AIzaSyDNvX0xxmuOlft1IuvcTrJTUpsOMLwzhI0</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDNvX0xxmuOlft1IuvcTrJTUpsOMLwzhI0</string>
+  <string name="google_app_id" translatable="false">1:208745185273:android:e3bc98be1564388e490728</string>
+  <string name="default_android_client_id" translatable="false">208745185273-e0kfmj04ho91ik9va1s8qcmf6svhc0nc.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">208745185273-p5u38qk7s3ohu3n2burd8255v5os38fm.apps.googleusercontent.com</string>
+</resources>

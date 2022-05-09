@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "208745185273",
+    "firebase_url": "https://mma-trainer-81f8d-default-rtdb.firebaseio.com",
+    "project_id": "mma-trainer-81f8d",
+    "storage_bucket": "mma-trainer-81f8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208745185273:android:e3bc98be1564388e490728",
+        "android_client_info": {
+          "package_name": "com.XIEAR.MMATrainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208745185273-e0kfmj04ho91ik9va1s8qcmf6svhc0nc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.XIEAR.MMATrainer",
+            "certificate_hash": "8ae6479dadf42c8a02df5134e92bfdae2c3bbf2d"
+          }
+        },
+        {
+          "client_id": "208745185273-p5u38qk7s3ohu3n2burd8255v5os38fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNvX0xxmuOlft1IuvcTrJTUpsOMLwzhI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208745185273-p5u38qk7s3ohu3n2burd8255v5os38fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
